@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build output
+frontend/.next/
+frontend/out/
+
+# Runtime data (uploads & license snapshot)
+backend/downloads/*
+!backend/downloads/logos/
+backend/downloads/logos/*
+!backend/downloads/logos/.gitkeep
+backend/storage/*
+!backend/storage/.gitkeep
+
+# Logs / OS
+*.log
+.DS_Store
+Thumbs.db

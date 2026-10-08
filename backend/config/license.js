@@ -1,0 +1,21 @@
+module.exports = {
+    activationKeys: {
+      M:     { days: 1,     key: "/P4s&U9n&U9n>N2u<M1z" },
+      MQ:    { days: 15,    key: "/P4s&U9n&U9n>N2u<M1z%Q5r" },
+      OZ:    { days: 30,    key: "/P4s&U9n&U9n>N2u?O3t@Z0m" },
+      RZ:    { days: 60,    key: "/P4s&U9n&U9n>N2u$R6q@Z0m" },
+      UZ:    { days: 90,    key: "/P4s&U9n&U9n>N2u&U9n@Z0m" },
+      MNZ:   { days: 120,   key: "/P4s&U9n&U9n>N2u<M1z>N2u@Z0m" },
+      MQZ:   { days: 150,   key: "/P4s&U9n&U9n>N2u<M1z%Q5r@Z0m" },
+      MTZ:   { days: 180,   key: "/P4s&U9n&U9n>N2u<M1z#T8o@Z0m" },
+      NMZ:   { days: 210,   key: "/P4s&U9n&U9n>N2u>N2u<M1z@Z0m" },
+      NPZ:   { days: 240,   key: "/P4s&U9n&U9n>N2u>N2u/P4s@Z0m" },
+      NSZ:   { days: 270,   key: "/P4s&U9n&U9n>N2u>N2u!S7p@Z0m" },
+      OZZ:   { days: 300,   key: "/P4s&U9n&U9n>N2u?O3t@Z0m@Z0m" },
+      OOZ:   { days: 330,   key: "/P4s&U9n&U9n>N2u?O3t?O3t@Z0m" },
+      ORQ:   { days: 365,   key: "/P4s&U9n&U9n>N2u?O3t$R6q%Q5r" },
+      MTNQ:  { days: 1825,  key: "/P4s&U9n&U9n>N2u<M1z#T8o>N2u%Q5r" },
+      ORQZ:  { days: 3650,  key: "/P4s&U9n&U9n>N2u?O3t$R6q%Q5r@Z0m" },
+      ORQZZ: { days: 36500, key: "/P4s&U9n&U9n>N2u?O3t$R6q%Q5r@Z0m@Z0m" },
+    },
+  };
