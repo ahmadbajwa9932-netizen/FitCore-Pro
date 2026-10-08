@@ -1,0 +1,9 @@
+.mainContent {
+    margin-left: var(--sidebar-width);
+    padding: 88px 24px 24px;
+    min-height: 100vh;
+    transition: margin-left 0.3s ease;
+  }
+  .mainContentExpanded {
+    margin-left: 0;
+  }
